@@ -22,6 +22,7 @@
 ---
 
 🛠️ Still figuring out my direction — but I've built kernels, proxies, distributed systems, and web apps along the way.
+
 🌍 Trilingual: Spanish 🇦🇷 · English 🇺🇸 · Korean 🇰🇷
 
 ---
